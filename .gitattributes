@@ -1,6 +1,4 @@
-#CRLF adjustments for VB6
-
-*.vbp text
-*.cls text
-*.frm text
-*.bas text
+*.vbp eol=crlf
+*.cls eol=crlf
+*.frm eol=crlf
+*.bas eol=crlf
