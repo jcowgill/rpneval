@@ -1,0 +1,6 @@
+#CRLF adjustments for VB6
+
+*.vbp text
+*.cls text
+*.frm text
+*.bas text
